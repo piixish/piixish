@@ -1,4 +1,4 @@
-![mizuki](https://media.discordapp.net/attachments/1230260851735396353/1231731158421737554/IMG_0291.jpg?ex=66380608&is=66259108&hm=53419ce98607c42327f57c34b86234198199fa76be1c5ba3c5213bdea9db3e16&)
+![mizuki]()
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QGBmkG9T4p) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piixish) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@piixish ) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/piixish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/7xdopi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@piixish) 
