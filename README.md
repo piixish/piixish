@@ -7,6 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 🖥️ composants :
-- ♡ **Carte graphique**: [AMD Radeon™ RX 7900 XTX Graphics, GeForce RTX Gamme 4080]
-- ♡ **Processor**: [Processeurs Intel® Core™ i9]
-- ♡ **RAM 32GO**: [G.Skill Trident Z Neo F4-3600C14D-32GTZNA Module de mémoire 32 Go 2 x 16 Go DDR4 3600 MHz]
+- ♡ **Carte graphique**: `[AMD Radeon™ RX 7900 XTX Graphics, GeForce RTX Gamme 4080]`
+- ♡ **Processor**: `[Processeurs Intel® Core™ i9]`
+- ♡ **RAM 32GO**: `[G.Skill Trident Z Neo F4-3600C14D-32GTZNA Module de mémoire 32 Go 2 x 16 Go DDR4 3600 MHz]`
